@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minimal Ölü Pixel</string>
+    <string name="info">Ekranı yana kaydırarak rengi değiştirin</string>
+    <string name="version">Uygulama Sürümü:</string>
+    <string name="build">Derleme</string>
+</resources>

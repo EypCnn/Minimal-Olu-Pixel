@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minimal Bad Pixels</string>
+    <string name="info">Swipe on screen to change color</string>
+    <string name="version">App Version:</string>
+    <string name="build">Build</string>
+</resources>
